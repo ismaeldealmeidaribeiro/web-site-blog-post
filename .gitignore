@@ -17,6 +17,7 @@
 /wp-content/index.php
 /wp-content/object-cache.php
 /wp-includes/
+/.gitignore
 /.htaccess
 /index.php
 /license.txt
